@@ -1,0 +1,1 @@
+# SQL-Server-on-Azure-VM-with-PowerShell
